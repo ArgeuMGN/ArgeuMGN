@@ -3,9 +3,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/argeumoreiragarcezneto/)
 
-![ArgeuMGN GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgeuMGN&show_icons=true&theme=dark) 
+![ArgeuMGN GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgeuMGN&show_icons=true&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArgeuMGN)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que desejo me especializar! 
+## Linguagens que desejo me especializar 
 
 <div style="display: inline_block"><br/> 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
@@ -21,7 +22,9 @@ Nos meus aprendizados recentes eu tenho estudado mais o FrontEnd para aprimorar 
 ## Contato  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](argeuprofissional@gmail.com) 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/+5521967735302) 
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/+5521967735302)  
+
+
 
 
 
